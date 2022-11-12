@@ -15,14 +15,15 @@ The package image_processing is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install img-processing-tm
 
 ```bash
 pip install img-processing-tm
 ```
 
 ## Usage
-
+https://test.pypi.org/project/img-processing-tm/
+pip install img-processing-tm
 
 
 ## Author
